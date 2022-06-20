@@ -1,0 +1,28 @@
+{
+  "name": "checkpoint-backend-training",
+  "version": "1.0.0",
+  "description": "## Prerequisites (tools installed)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LuisC92/checkpoint-backend-training.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LuisC92/checkpoint-backend-training/issues"
+  },
+  "homepage": "https://github.com/LuisC92/checkpoint-backend-training#readme",
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "morgan": "^1.10.0",
+    "mysql2": "^2.3.3",
+    "nodemon": "^2.0.16"
+  }
+}
