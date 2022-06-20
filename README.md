@@ -17,14 +17,15 @@ The goal here is to create the backend with Node/Express.
 
 Here are the user stories that tell you which routes you will have to implement on your backend, and which SQL queries will have to be executed:
 
-- as a user, I want to be able to create a new album.
-- as a user, I want to be able to see an album by entering its id in the url.
-- as a user, I want to create and assign a song to an album.
-- as a user, I want to list all the songs from an album.
-- as a user, I want to be able to delete an album.
-- as a user, I want to be able to modify an album.
-- as a user, I want to delete a song.
-- as a user, I want to edit a song from an album.
+-> as a user, I want to:
+- be able to create a new album.
+- be able to see an album by entering its id in the url.
+- to create and assign a song to an album.
+- to list all the songs from an album.
+- to be able to delete an album.
+- to be able to modify an album.
+- to delete a song.
+- to edit a song from an album.
 
 You will have to respect the following rules on your routes:
 
