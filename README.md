@@ -1,4 +1,4 @@
-# checkpoint-3-backend-training **4h**
+# checkpoint-backend-training **4h**
 
 ## Prerequisites (tools installed)
 
