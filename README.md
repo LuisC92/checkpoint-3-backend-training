@@ -60,9 +60,6 @@ You will have to respect the following rules on your routes:
 
 Be sure to group the routes using the Express router and test the API with Postman.
 
-You can find, down below, the database schema.
-
-![MLD](https://i.imgur.com/PDsSoEC.png)
 
 ## Bonus
 
